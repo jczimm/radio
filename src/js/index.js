@@ -1,7 +1,3 @@
-window.onerror = function() {
-    alert('Could not load radio stream.');
-}
-
 (function() {
     var ALPHA, AudioAnalyser, COLORS, MP3_PATH, NUM_BANDS, NUM_PARTICLES, Particle, SMOOTHING;
 
@@ -190,6 +186,8 @@ window.onerror = function() {
                     }
                 } catch (_error) {
                     error = _error;
+                    alert('Could not load radio stream.');
+                    console.log(error);
                 }
             } else {
                 warning = document.getElementById('warning1');

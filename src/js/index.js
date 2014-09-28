@@ -1,13 +1,6 @@
-/*
-
-  Music is by The XX
-  @see http://thexx.info
-
-  This is best viewed in Chrome since there is a bug in Safari
-  when using getByteFrequencyData with MediaElementAudioSource
-
-  @see http://goo.gl/6WLx1
- */
+window.onerror = function() {
+    alert('Could not load radio stream.');
+}
 
 (function() {
     var ALPHA, AudioAnalyser, COLORS, MP3_PATH, NUM_BANDS, NUM_PARTICLES, Particle, SMOOTHING;

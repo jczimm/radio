@@ -186,8 +186,6 @@
                     }
                 } catch (_error) {
                     error = _error;
-                    alert('Could not load radio stream.');
-                    console.log(error);
                 }
             } else {
                 warning = document.getElementById('warning1');

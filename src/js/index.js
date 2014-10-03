@@ -7,7 +7,7 @@
 
     SMOOTHING = 0.2;
 
-    MP3_PATH = 'http://173.48.23.157:8000/stream';
+    MP3_PATH = 'http://stream.cdn.jude.me/jczimmradio';
 
     var SCALE = {
         MIN: 5.0,

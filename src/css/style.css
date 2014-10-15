@@ -1,72 +1,79 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 html, body {
-  font-family: "Lato", sans-serif;
-  background: #13242f;
-  overflow: hidden;
+    font-family: "Lato", sans-serif;
+    background: #13242f;
+    overflow: hidden;
 }
-
 #container:before {
-  background-image: -moz-radial-gradient(center, ellipse cover, rgba(0, 0, 0, 0) 20%, #000000 95%);
-  background-image: -webkit-radial-gradient(center, ellipse cover, rgba(0, 0, 0, 0) 20%, #000000 95%);
-  background-image: radial-gradient(center, ellipse cover, rgba(0, 0, 0, 0) 20%, #000000 95%);
-  position: absolute;
-  content: "";
-  z-index: 0;
-  opacity: 0.9;
-  height: 100%;
-  width: 100%;
-  left: 0;
-  top: 0;
+    background-image: -moz-radial-gradient(center, ellipse cover, rgba(0, 0, 0, 0) 20%, #000000 95%);
+    background-image: -webkit-radial-gradient(center, ellipse cover, rgba(0, 0, 0, 0) 20%, #000000 95%);
+    background-image: radial-gradient(center, ellipse cover, rgba(0, 0, 0, 0) 20%, #000000 95%);
+    position: absolute;
+    content: "";
+    z-index: 0;
+    opacity: 0.9;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
 }
 #container:after {
-  background: url("../img/noise.png");
-  position: absolute;
-  content: "";
-  z-index: 1;
-  opacity: 0.8;
-  height: 100%;
-  width: 100%;
-  left: 0;
-  top: 0;
+    background: url("../img/noise.png");
+    position: absolute;
+    content: "";
+    z-index: 1;
+    opacity: 0.8;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
 }
-
+#offline {
+    display: none;
+    background: url("http://placehold.it/200x200");
+    opacity: 0.4;
+    position: absolute;
+    z-index: 4;
+    width: 200px;
+    height: 200px;
+    top: calc(50% - 100px);
+    left: calc(50% - 100px);
+}
 audio {
-  position: absolute;
-  z-index: 2;
-  right: 0;
-  top: 0;
+    position: absolute;
+    z-index: 2;
+    right: 0;
+    top: 0;
 }
-
 .message {
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  text-transform: uppercase;
-  border-radius: 3px;
-  text-align: center;
-  line-height: 1.2;
-  background: rgba(0, 0, 0, 0.8);
-  position: absolute;
-  margin-left: -180px;
-  margin-top: -30px;
-  font-size: 13px;
-  padding: 20px;
-  display: none;
-  z-index: 3;
-  height: 60px;
-  width: 360px;
-  color: white;
-  left: 50%;
-  top: 50%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    text-transform: uppercase;
+    border-radius: 3px;
+    text-align: center;
+    line-height: 1.2;
+    background: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    margin-left: -180px;
+    margin-top: -30px;
+    font-size: 13px;
+    padding: 20px;
+    display: none;
+    z-index: 3;
+    height: 60px;
+    width: 360px;
+    color: white;
+    left: 50%;
+    top: 50%;
 }
 .message h1, .message h2 {
-  font-weight: 300;
-  margin: 10px 0;
+    font-weight: 300;
+    margin: 10px 0;
 }
 .message h1 a, .message h2 a {
-  text-decoration: none;
-  font-weight: 700;
-  color: #1b676b;
+    text-decoration: none;
+    font-weight: 700;
+    color: #1b676b;
 }
-
 #intro {
-  display: block;
+    display: block;
 }

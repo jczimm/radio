@@ -48,9 +48,7 @@
             this.smoothing = smoothing != null ? smoothing : 0.3;
             if (typeof this.audio === 'string') {
                 src = this.audio;
-                this.audio = new Audio();
-                this.audio.controls = false;
-                this.audio.src = src;
+                this.audio = new AudioPlayer(src);
             }
             this.context = new AudioAnalyser.AudioContext();
             this.jsNode = this.context.createScriptProcessor(2048, 1, 1);
@@ -212,6 +210,20 @@
     });
 
 }).call(this);
+
+function AudioPlayer(src) {
+    var obj = new Audio();
+    obj.controls = false;
+    obj.src = src;
+    obj.onerror = function() {
+        $("#offline").fadeIn();
+    };
+    obj.onpause = function() {
+        obj.play();
+    };
+
+    return obj;
+}
 
 
 SC.initialize({

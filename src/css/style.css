@@ -30,8 +30,8 @@ html, body {
 }
 #offline {
     display: none;
-    background: url("http://placehold.it/200x200");
-    opacity: 0.4;
+    background: url("../img/offline.svg");
+    opacity: 0.2;
     position: absolute;
     z-index: 4;
     width: 200px;

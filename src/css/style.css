@@ -43,7 +43,7 @@ audio {
     position: absolute;
     z-index: 2;
     right: 0;
-    top: 0;
+    top: 35px;
 }
 .message {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);

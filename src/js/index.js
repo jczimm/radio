@@ -235,7 +235,6 @@ function AudioPlayer(src) {
     obj.onloadeddata = function() {
         clearTimeout(reconnection);
         obj.play();
-        setCheckPlaying();
         $("#offline").fadeOut();
     };
 

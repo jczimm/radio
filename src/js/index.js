@@ -1,5 +1,5 @@
 //(function() {
-var ALPHA, AudioAnalyser, COLORS, Particle;
+/*var ALPHA, AudioAnalyser, COLORS, Particle;
 
 var NUM_PARTICLES = 150,
     NUM_BANDS = 128,
@@ -206,13 +206,15 @@ Sketch.create({
         }
         return _results;
     }
-});
+});*/
+
+document.body.appendChild(new AudioPlayer("http://stream.cdn.jude.me/jczimmradio"));
 
 var reconnection, reconnectLoop, checkPlaying;
 
 function AudioPlayer(src) {
     var obj = new Audio();
-    obj.controls = false;
+    obj.controls = true;
     obj.src = src;
     obj.preload = "none";
 

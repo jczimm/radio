@@ -214,6 +214,7 @@ function AudioPlayer(src) {
     var obj = new Audio();
     obj.controls = false;
     obj.src = src;
+    obj.preload = "none";
 
     reconnectLoop = function() {
         $("#offline").fadeIn();
@@ -251,7 +252,7 @@ function AudioPlayer(src) {
 //      \|                              #       //
 //      _,________:;_________._|==+"(|__|       //
 
-var clientID = "f63662c368fb9d962d8bf670bc6303f8";
+/*var clientID = "f63662c368fb9d962d8bf670bc6303f8";
 
 SC.initialize({
     client_id: clientID
@@ -266,3 +267,4 @@ function playSC(url) {
     });
     document.getElementById("player").play();
 }
+*/

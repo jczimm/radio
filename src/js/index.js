@@ -1,3 +1,65 @@
+document.body.appendChild(new AudioPlayer("http://stream.cdn.jude.me/jczimmradio"));
+
+var reconnection, reconnectLoop, checkPlaying;
+
+function AudioPlayer(src) {
+    var obj = new Audio();
+    obj.controls = true;
+    obj.src = src;
+    obj.preload = "none";
+
+    reconnectLoop = function() {
+        $("#offline").fadeIn();
+        reconnection = setTimeout(function() {
+            // request the source by giving its uri to the audio element again
+            obj.src = src;
+
+        }, 3000);
+    };
+
+    obj.onerror = reconnectLoop;
+    obj.play();
+
+    checkPlaying = setInterval(function() {
+        if (obj.duration === obj.currentTime)
+            reconnectLoop();
+    }, 3000);
+
+    obj.onloadeddata = function() {
+        clearTimeout(reconnection);
+        obj.play();
+        $("#offline").fadeOut();
+    };
+
+    obj.onpause = function() {
+        obj.play();
+    };
+
+    return obj;
+}
+
+//}).call(this);
+
+//      .-==[ OLD SOUNDCLOUD FEATURE ]==-.      //
+//      \|                              #       //
+//      _,________:;_________._|==+"(|__|       //
+
+/*var clientID = "f63662c368fb9d962d8bf670bc6303f8";
+
+SC.initialize({
+    client_id: clientID
+});
+
+function playSC(url) {
+    var id = clientID;
+    $.getJSON("https://api.sndcdn.com/resolve?url=" + url + "&_status_code_map%5B302%5D=200&_status_format=json&client_id=" + id, function(data) {
+        SC.get(data["location"].match(/\/tracks\/\d+/), {}, function(sound) {
+            $("#player").attr("src", sound.stream_url + "?client_id=" + clientID);
+        });
+    });
+    document.getElementById("player").play();
+}
+*/
 //(function() {
 /*var ALPHA, AudioAnalyser, COLORS, Particle;
 
@@ -207,66 +269,3 @@ Sketch.create({
         return _results;
     }
 });*/
-
-document.body.appendChild(new AudioPlayer("http://stream.cdn.jude.me/jczimmradio"));
-
-var reconnection, reconnectLoop, checkPlaying;
-
-function AudioPlayer(src) {
-    var obj = new Audio();
-    obj.controls = true;
-    obj.src = src;
-    obj.preload = "none";
-
-    reconnectLoop = function() {
-        $("#offline").fadeIn();
-        reconnection = setTimeout(function() {
-            // request the source by giving its uri to the audio element again
-            obj.src = src;
-
-        }, 3000);
-    };
-
-    obj.onerror = reconnectLoop;
-    obj.play();
-    
-    checkPlaying = setInterval(function() {
-        if (obj.duration === obj.currentTime)
-            reconnectLoop();
-    }, 3000);
-
-    obj.onloadeddata = function() {
-        clearTimeout(reconnection);
-        obj.play();
-        $("#offline").fadeOut();
-    };
-
-    obj.onpause = function() {
-        obj.play();
-    };
-
-    return obj;
-}
-
-//}).call(this);
-
-//      .-==[ OLD SOUNDCLOUD FEATURE ]==-.      //
-//      \|                              #       //
-//      _,________:;_________._|==+"(|__|       //
-
-/*var clientID = "f63662c368fb9d962d8bf670bc6303f8";
-
-SC.initialize({
-    client_id: clientID
-});
-
-function playSC(url) {
-    var id = clientID;
-    $.getJSON("https://api.sndcdn.com/resolve?url=" + url + "&_status_code_map%5B302%5D=200&_status_format=json&client_id=" + id, function(data) {
-        SC.get(data["location"].match(/\/tracks\/\d+/), {}, function(sound) {
-            $("#player").attr("src", sound.stream_url + "?client_id=" + clientID);
-        });
-    });
-    document.getElementById("player").play();
-}
-*/

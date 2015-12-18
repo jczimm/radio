@@ -1,4 +1,4 @@
-document.body.appendChild(new AudioPlayer("http://stream.cdn.jude.me/jczimmradio"));
+document.body.appendChild(new AudioPlayer("http://jude.me:1000/jczimmradio"));
 
 var reconnection, reconnectLoop, checkPlaying;
 

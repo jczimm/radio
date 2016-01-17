@@ -1,0 +1,14 @@
+{
+  "name": "jczimm-radio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "showdown makehtml -i index.md -o index.html"
+  },
+  "author": "jczimm",
+  "license": "MIT",
+  "devDependencies": {
+    "showdown": "^1.3.0"
+  }
+}

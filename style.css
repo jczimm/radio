@@ -19,9 +19,19 @@ body {
 aside {
   font-size: 1.5rem;
   padding: 1.3rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
   position: absolute;
   z-index: 10;
   right: 0;
@@ -52,6 +62,7 @@ aside > .pulldown {
   height: 0;
   opacity: 0;
   pointer-events: none;
+  -webkit-transition: height 0.4s 0.25s, color 0.3s, opacity 0.33s;
   transition: height 0.4s 0.25s, color 0.3s, opacity 0.33s;
   position: absolute;
   margin-left: -1.3rem;
@@ -72,6 +83,7 @@ aside.open > .pulldown {
   height: 100%;
   color: #F6F6F6;
   pointer-events: unset;
+  -webkit-transition: height 0.4s, opacity 0.4s;
   transition: height 0.4s, opacity 0.4s;
 }
 
@@ -83,6 +95,7 @@ aside > p a {
 aside > .pulldown a {
   text-decoration: none;
   color: #004A55;
+  -webkit-transition: color 0.3s;
   transition: color 0.3s;
 }
 aside.open > .pulldown a {
@@ -111,6 +124,26 @@ blockquote {
 
 h2 {
   color: #F87D09;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul {
+  counter-reset: listCounter;
+}
+
+ul > li::before {
+  content: counter(listCounter);
+  counter-increment: listCounter;
+  position: absolute;
+  margin-left: -1.5em;
+  padding-right: 1.2em;
+  font-size: .75em;
+  color: #ddd;
+  -webkit-transform: translate(-25%, 25%);
+          transform: translate(-25%, 25%);
 }
 
 @media (max-width: 725px) {

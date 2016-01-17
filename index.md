@@ -11,7 +11,7 @@
     <span onclick="closePulldown()">x</span>
   </div>
   <p>
-    Tune in Saturdays 4-5 EST on <a href="http://tunein.com/radio/WPEA-905-s21897/">TuneIn Radio</a>
+    Tune into WPEA Rampant Radio Saturdays 4-5 EST on <a href="http://tunein.com/radio/WPEA-905-s21897/">TuneIn Radio</a>
   </p>
 </aside>
 

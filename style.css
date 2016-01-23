@@ -116,10 +116,13 @@ p.description {
 
 blockquote {
   font-size: 0.7em;
-  background: #ddd;
-  color: #777;
   margin-left: 0em;
   padding-left: 2.5em;
+}
+
+blockquote, em {
+  background: #ddd;
+  color: #777;
 }
 
 h2 {

@@ -19,7 +19,7 @@
 
 Passage into a realm of phat beats and bright synths; a taste of the future of music.
 
-> *spotlight mix in italics*
+> *spotlight mix*
 
 ## 1.23.16
 

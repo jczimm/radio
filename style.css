@@ -157,7 +157,7 @@ ul > li::before {
   }
   
   body {
-    max-width: 100%;
+    max-width: 88%;
     padding-left: 12%;
   }
 }

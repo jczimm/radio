@@ -19,9 +19,24 @@
 
 Passage into a realm of phat beats and bright synths; a taste of the future of music.
 
-## 1.16.16
-
 > *spotlight mix in italics*
+
+## 1.23.16
+
+- *Nigel Good - Space Plus One*
+- *Rootkit - Elevate*
+- *BENJI - Never Love*
+- *Tut Tut Child - I Can't*
+- Throttle x Earth, Wind, and Fire - September
+- Odesza - All We Need (Haywyre Remix)
+- Years & Years - King (Anevo Remix)
+- J'Adore - Standing Man
+- Stulp Fiction - Shroom
+- Florence and The Machine ft. Candi Staton - You Got The Love (Mr Saccardo)
+- Sia - Elastic Heart (Mats Gulbrandsen vs. Cosmic Dawn Remix)
+- Vivid - Fear
+
+## 1.16.16
 
 - KVN - Tribes
 - *KVN - Barren*

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "sh ./build"
+    "build": "zsh ./build"
   },
   "author": "jczimm",
   "license": "MIT",

@@ -1,3 +1,13 @@
-#!/bin/sh
-showdown makehtml -i index.md -o index.html # build markdown into HTML
-cat head.html | cat - index.html > /tmp/head && mv /tmp/head index.html # prepend head.html to index.html
+#!/bin/zsh
+
+write_to_index () {
+	echo "$1" > /tmp/toprepend && mv /tmp/toprepend index.html
+}
+
+# build markdown into HTML
+showdown makehtml -i index.md -o index.html
+
+# prepend aside.html and head.html to index.html
+write_to_index "$(cat head.html <(echo) aside.html <(echo) index.html <(echo))"
+
+echo "Built index.html."

@@ -1,14 +1,3 @@
-<aside>
-  <div class="pulldown-pointer" onclick="pulldown()"></div>
-  <div class="pulldown">
-    Hosted by <a href="http://x.jczimm.com/ws2sc">jczimm</a>
-    <span onclick="closePulldown()">x</span>
-  </div>
-  <p>
-    Tune into WPEA Rampant Radio Saturdays 4-5 EST on <a href="http://tunein.com/radio/WPEA-905-s21897/">TuneIn Radio</a>
-  </p>
-</aside>
-
 # Quiesci
 
 Passage into a realm of phat beats and bright synths; a taste of the future of music.

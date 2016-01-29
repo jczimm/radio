@@ -1,13 +1,9 @@
-#!/bin/zsh
-
-write_to_index () {
-	echo "$1" > /tmp/toprepend && mv /tmp/toprepend index.html
-}
+#!/bin/sh
 
 # build markdown into HTML
-showdown makehtml -i index.md -o index.html
+showdown makehtml -i index.md -o body.html
 
-# prepend aside.html and head.html to index.html
-write_to_index "$(cat head.html <(echo) aside.html <(echo) index.html <(echo))"
+# write all the files to index.html
+cat head.html aside.html body.html > index.html
 
 echo "Built index.html."

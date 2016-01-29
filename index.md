@@ -1,16 +1,3 @@
-<head>
-	<link href="lib/normalize.css" rel="stylesheet">
-	<link href="style.css" rel="stylesheet">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<!-- O.G. tags -->
-	<meta property="og:type" content="music.radio_station">
-	<meta property="og:url" content="http://jczimm.com/radio">
-	<meta property="og:title" content="Quiesci">
-	<meta property="og:description" content="Passage into a realm of phat beats and bright synths; a taste of the future of music.  Radio show on WPEA Rampant Radio, Sat. 4-5 EST.">
-	<meta property="og:site_name" content="Quiesci">
-	<!-- <meta property="og:image"  content="..."> -->
-</head>
-
 <aside>
   <div class="pulldown-pointer" onclick="pulldown()"></div>
   <div class="pulldown">

@@ -1,0 +1,3 @@
+#!/bin/sh
+showdown makehtml -i index.md -o index.html # build markdown into HTML
+cat head.html | cat - index.html > /tmp/head && mv /tmp/head index.html # prepend head.html to index.html

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "showdown makehtml -i index.md -o index.html"
+    "build": "sh ./build"
   },
   "author": "jczimm",
   "license": "MIT",

@@ -26,7 +26,7 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 - Years & Years - King (Anevo Remix)
 - J'Adore - Standing Man
 - Stulp Fiction - Shroom
-- Florence and The Machine ft. Candi Staton - You Got The Love (Mr Saccardo)
+- Florence and The Machine ft. Candi Staton - You Got The Love (Mr Saccardo Remix)
 - Sia - Elastic Heart (Mats Gulbrandsen vs. Cosmic Dawn Remix)
 - Vivid - Fear
 

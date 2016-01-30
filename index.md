@@ -4,6 +4,23 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 
 > *spotlight mix*
 
+## 1.30.16
+
+- KOAN Sound x Culprate x Asa x Opiuo - If You Hadn't
+- *capt. pizza - MISERY*
+- *OBESON - Friend to an Enemy*
+- *Orygin - Roots*
+- *Saturn - Looking Glass*
+- GOLDWATER - Thinking
+- tekvision - Lament
+- Swindail - Gellaitry Groove (Traxell Remix)
+- Whispa - Hamara
+- Kuiters - Tidbit
+- XELΛRΛIN - EgoDeath
+- ANTI-HERO & Atura - Distant
+- Mura Masa - Firefly (Ramzoid Remix)
+- Ryan Hemsworth - Gods (with UV boi)
+
 ## 1.23.16
 
 - *Nigel Good - Space Plus One*

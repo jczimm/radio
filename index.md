@@ -4,6 +4,22 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 
 > *spotlight mix*
 
+## 2.6.16
+
+- BLU J - I RMMBR
+- *Kuso Kurae - See U Again*
+- *Gallant - Weight in Gold (Louis Vivet Remix)*
+- *Galantis - Runaway (U & I) (Subtact Remix)*
+- *Flume - Smoke & Retribution (Ekali Remix)*
+- MGMT - KIDS (LUCA LUSH REDO)
+- Madeon - Pay No Mind (feat. Passion Pit) [Lemaitre Remix]
+- SG Lewis - Shivers (Delusion Remix)
+- G-Eazy & Bebe Rexha - me myself and i (no sleep remix)
+- flume - never be like you feat. kai (gill chang EDIT)
+- CHVRCHES - The Mother We Share (Moon Boots Remix)
+- Louis The Child (ft. K. Flay) - It's Strange (Mr FijiWiji Remix)
+- pools - Traffic Lights (TRAILS Flip)
+
 ## 1.30.16
 
 - KOAN Sound x Culprate x Asa x Opiuo - If You Hadn't

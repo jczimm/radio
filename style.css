@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Fira+Mono);
+
 * {
   box-sizing: border-box;
 }
@@ -10,14 +12,14 @@ body {
 
 body {
   background: #F6F6F6;
-  font-family: monospace;
-  font-size: 2rem;
+  font-family: "Fira Mono", monospace;
+  font-size: 1.5rem;
   padding-left: 20%;
   max-width: 85%;
 }
 
 aside {
-  font-size: 1.5rem;
+  font-size: 0.9em;
   padding: 1.3rem;
   display: -webkit-box;
   display: -webkit-flex;
@@ -125,6 +127,11 @@ blockquote, em {
   color: #777;
 }
 
+em {
+  font-family: monospace;
+  font-size: 1.33em;
+}
+
 h2 {
   color: #F87D09;
 }
@@ -145,8 +152,8 @@ ul > li::before {
   padding-right: 1.2em;
   font-size: .75em;
   color: #ddd;
-  -webkit-transform: translate(-25%, 25%);
-          transform: translate(-25%, 25%);
+  -webkit-transform: translate(-25%, 20%);
+          transform: translate(-25%, 20%);
 }
 
 @media (max-width: 725px) {

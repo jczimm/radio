@@ -12,7 +12,7 @@ body {
 
 body {
   background: #F6F6F6;
-  font-family: "Fira Mono", Courier, monospace;
+  font-family: "Fira Mono", monospace;
   font-size: 1.5rem;
   padding-left: 20%;
   max-width: 85%;
@@ -125,11 +125,6 @@ blockquote {
 blockquote, em {
   background: #ddd;
   color: #777;
-}
-
-em {
-  font-family: Courier, monospace;
-  font-size: 1.33em;
 }
 
 h2 {

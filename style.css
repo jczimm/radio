@@ -120,10 +120,28 @@ blockquote {
   font-size: 0.7em;
   margin-left: 0em;
   padding-left: 2.5em;
+  background-color: #eee;
 }
 
-blockquote, em {
+blockquote > p > em, blockquote > p > strong {
+  width: calc(100% + 2.5em);
+  display: block;
+  margin-left: -2.5em;
+  padding-left: 2.5em;
+}
+
+em {
   background: #ddd;
+  color: #777;
+}
+
+strong {
+  font-weight: 400;
+  font-style: italic;
+}
+
+strong {
+  background: #bbb;
   color: #777;
 }
 

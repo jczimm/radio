@@ -26,7 +26,7 @@ Featuring a special mix by [Ramzoid](https://soundcloud.com/ramzoid).
 - **Kendrick Lamar - Wesley's Theory (DrewsThatDude x GRAVEZ x oriJanus x TEK.LUN x Zikomo Remix)**
 - **Ramzoid - ID**
 - **Ramzoid - Turtle Theme**
-- **Kaaris - Chargé (Ramzoid Edit)**
+- **Kaaris - Charg&eacute; (Ramzoid Edit)**
 - **SINIQ - Silicon Valley**
 - **Ramzoid - ID**
 - **Tsuruda - Zac's Demise**

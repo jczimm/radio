@@ -1,1 +1,4 @@
 node_modules
+
+# generated from index.md
+partials/body.html

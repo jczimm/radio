@@ -1,9 +1,9 @@
 #!/bin/sh
 
 # build markdown into HTML
-showdown makehtml -i index.md -o body.html
+showdown makehtml -i index.md -o partials/body.html
 
-# write all the files to index.html
-cat head.html aside.html body.html > index.html
+# write all the partial files in concatenation to index.html
+cat partials/head.html partials/aside.html partials/body.html > index.html
 
 echo "Built index.html."

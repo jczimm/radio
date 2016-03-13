@@ -130,20 +130,26 @@ blockquote > p > em, blockquote > p > strong {
   padding-left: 2.5em;
 }
 
+/* --- */
+
+em, strong {
+  color: #777;
+  font-style: italic;
+  font-weight: 400;
+  padding-right: 0.5rem;
+}
+
+/* spotlight mix */
 em {
   background: #ddd;
-  color: #777;
 }
 
-strong {
-  font-weight: 400;
-  font-style: italic;
-}
-
+/* special mix */
 strong {
   background: #bbb;
-  color: #777;
 }
+
+/* --- */
 
 h2 {
   color: #F87D09;

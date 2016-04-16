@@ -6,6 +6,21 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 
 > **special mix**
 
+## 4.16.16
+
+- *Swedish House Mafia Vs. Coldplay - Every Tear Drop Is A Waterfall*
+- *Swedish House Mafia - Save the World (Knife Party Remix)*
+- *Swedish House Mafia - Don't You Worry Child (feat. John Martin) (Promise Land Remix)*
+- *Dirty South & Alesso - City of Dreams (feat. Ruben Haze)*
+- *Dirty South - Find A Way (Anevo remix)*
+- *Zedd - Beautiful Now (feat. Jon Bellion) [Dirty South Remix]*
+- Smallpools - Dreaming (Zookëper Remix)
+- Ryzu & Unison - Azure
+- Morgan Page ft. Angelika Vee - Safe Till Tomorrow (Pegboard Nerds Remix)
+- Kaskade ft. Ilsey - Disarm You (Project 46 Mix)
+- Axwell/\Ingrosso - Sun Is Shining (M-22 Remix)
+- Daddys Groove - Pulse (Color Source Remix)
+
 ## 2.20.16
 
 Featuring a special mix by [Ramzoid](https://soundcloud.com/ramzoid).

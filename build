@@ -4,6 +4,8 @@
 showdown makehtml -i index.md -o partials/body.html
 
 # write all the partial files in concatenation to index.html
-cat partials/head.html partials/profileimage.html partials/aside.html partials/body.html > index.html
+cd partials/
+cat head.html profileimage.html aside.html body.html footer.html > ../index.html
+cd ..
 
 echo "Built index.html."

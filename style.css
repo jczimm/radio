@@ -253,6 +253,31 @@ ul > li::before {
           transform: translate(-25%, 20%);
 }
 
+footer {
+  height: 5rem;
+  background-color: #111;
+  color: #ccc;
+  position: absolute;
+  width: 100%;
+  margin-left: -20%;
+}
+
+footer > span {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 0.7em;
+}
+
+footer > span a {
+  color: #ccc;
+}
+
+footer > span a:hover {
+  color: #A7CDCC;
+}
+
 @media (max-width: 725px) {
   aside {
     position: relative;

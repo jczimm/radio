@@ -297,4 +297,8 @@ footer > span a:hover {
     max-width: 88%;
     padding-left: 12%;
   }
+
+  body.frosted {
+    opacity: 1;
+  }
 }

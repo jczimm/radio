@@ -301,4 +301,8 @@ footer > span a:hover {
   body.frosted {
     opacity: 1;
   }
+
+  footer {
+    width: 108%; /* magic number... :/ */
+  }
 }

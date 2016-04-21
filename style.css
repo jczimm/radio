@@ -17,6 +17,83 @@ body {
   font-size: 1.5rem;
   padding-left: 20%;
   max-width: 85%;
+  opacity: 1;
+  transition: opacity 0.3s;
+}
+
+body.frosted {
+  opacity: 0;
+}
+
+#profileimage {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: 999;
+  pointer-events: none;
+  transition: opacity 0.3s;
+}
+
+#profileimage span {
+  display: none;
+  cursor: pointer;
+}
+
+#profileimage img {
+  position: absolute;
+  opacity: 0.7;
+  width: 50%;
+  /*transition: all 0.1s ease-in;*/
+  transition: opacity 0.3s;
+}
+
+#profileimage img, #profileimage span {
+  pointer-events: all;
+}
+
+#profileimage img.left {
+  left: 0;
+  transform: translateX(-64%);
+}
+
+#profileimage img.right {
+  top: 40%;
+  margin-top: 2em;
+  right: 0;
+  transform: translateX(43%);
+}
+
+#profileimage.open {
+  background-color: #eee;
+  position: fixed;
+  opacity: 0.7;
+}
+
+#profileimage.open.first {
+  opacity: 1;
+}
+
+#profileimage.open span {
+  display: block;
+}
+
+#profileimage.open.first span {
+  display: none;
+}
+
+#profileimage.open img {
+  opacity: 1;
+  top: 0;
+  margin-top: 0;
+  width: 40%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+#profileimage.hidden img {
+  opacity: 0;
 }
 
 aside {
@@ -91,7 +168,6 @@ aside.open > .pulldown {
 }
 
 aside > p a {
-  text-decoration: none;
   color: #000;
 }
 
@@ -107,6 +183,7 @@ aside.open > .pulldown a {
 
 aside a:hover {
   text-decoration: underline;
+  color: #A7CDCC;
 }
 
 aside a:active {
@@ -181,6 +258,10 @@ ul > li::before {
     position: relative;
     width: 100%;
     min-height: unset;
+  }
+
+  #profileimage {
+    display: none;
   }
   
   body {

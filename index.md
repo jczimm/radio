@@ -14,7 +14,7 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 - *Dirty South & Alesso - City of Dreams (feat. Ruben Haze)*
 - *Dirty South - Find A Way (Anevo remix)*
 - *Zedd - Beautiful Now (feat. Jon Bellion) [Dirty South Remix]*
-- Smallpools - Dreaming (Zookëper Remix)
+- Smallpools - Dreaming (Zook&euml;per Remix)
 - Ryzu & Unison - Azure
 - Morgan Page ft. Angelika Vee - Safe Till Tomorrow (Pegboard Nerds Remix)
 - Kaskade ft. Ilsey - Disarm You (Project 46 Mix)

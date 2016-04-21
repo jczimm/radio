@@ -30,14 +30,19 @@
 
 </script>
 
+<div id="profileimage" class="open first hidden">
+  <img onclick="openEl(this.parentElement)" class="left" src="./img/logo-right.png" />
+  <img onclick="openEl(this.parentElement)" class="right" src="./img/logo-left.png" />
+  <span onclick="closeEl(this.parentElement)">x</span>
+</div>
 <aside>
-  <div class="pulldown-pointer" onclick="pulldown()"></div>
+  <div class="pulldown-pointer" onclick="openEl(this.parentElement)"></div>
   <div class="pulldown">
     Hosted by <a href="http://x.jczimm.com/ws2sc">jczimm</a>
-    <span onclick="closePulldown()">x</span>
+    <span onclick="closeEl(this.parentElement.parentElement)">x</span>
   </div>
   <p>
-    Tune into WPEA Rampant Radio Saturdays 4-5 EST on <a href="http://tunein.com/radio/WPEA-905-s21897/">TuneIn Radio</a>
+    Tune into WPEA Rampant Radio Saturdays 5-6 EDT on <a href="http://tunein.com/radio/WPEA-905-s21897/">TuneIn Radio</a>
   </p>
 </aside>
 
@@ -66,7 +71,7 @@
 
 <li><em>Zedd - Beautiful Now (feat. Jon Bellion) [Dirty South Remix]</em></li>
 
-<li>Smallpools - Dreaming (Zookëper Remix)</li>
+<li>Smallpools - Dreaming (Zook&euml;per Remix)</li>
 
 <li>Ryzu &amp; Unison - Azure</li>
 

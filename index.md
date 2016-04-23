@@ -7,6 +7,31 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 
 > **special mix**
 
+## 4.23.16
+
+Featuring a selection from Ta-ku's tribute album, [50 Days for Dilla](https://soundcloud.com/takugotbeats/sets/50-days-for-dilla-1).
+
+- Ta-ku - DAY 1
+- Ta-ku - DAY 10
+- Ta-ku - DAY 11
+- Ta-ku - DAY 18
+- Ta-ku - DAY 20
+- Ta-ku - DAY 24
+- Ta-ku - DAY 26
+- Ta-ku - DAY 38
+- Ta-ku - DAY 40
+- Ta-ku - DAY 41
+- Ta-ku - DAY 47
+- Ta-ku - DAY 50
+- sam gellaitry - reflectionz
+- whereisalex - masamune
+- whereisalex - I wish you loved me.
+- whereisalex - let the church say amen.
+- whereisalex - god can't save you now.
+- whereisalex - say my name
+- whereisalex - binky
+- Darude Astley - Sandroll
+
 ## 4.16.16
 
 - *Swedish House Mafia Vs. Coldplay - Every Tear Drop Is A Waterfall*

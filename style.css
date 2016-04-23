@@ -73,6 +73,7 @@ body.frosted {
   background-color: #eee;
   position: fixed;
   opacity: 0.7;
+  pointer-events: all;
 }
 
 #profileimage.open.first {

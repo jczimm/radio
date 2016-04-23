@@ -1,4 +1,5 @@
 # Quiesci
+<audio src="http://142.4.217.133:8222/stream" preload="auto">
 
 Passage into a realm of phat beats and bright synths; a taste of the future of music.
 
@@ -143,4 +144,5 @@ Featuring a special mix by [Ramzoid](https://soundcloud.com/ramzoid).
 - graves & Jupe - VHS
 - Madeon - Innocence ft. Aquilo (Daydreamer Remix)
 
+<script src="lib/audiojs/audio.min.js"></script>
 <script src="script.js"></script>

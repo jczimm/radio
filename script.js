@@ -1,10 +1,10 @@
 var profileimage = document.querySelector('#profileimage'),
-    body = document.querySelector('body'),
-    audioEl = document.querySelector('audio');
+    body = document.querySelector('body');/*,
+    audioEl = document.querySelector('audio');*/
 
 //
 
-audiojs.events.ready(function() {
+/*audiojs.events.ready(function() {
     var audio = audiojs.create(audioEl, {
         createPlayer: {
             markup: '\
@@ -28,7 +28,7 @@ audiojs.events.ready(function() {
             errorClass: 'error',
         }
     });
-});
+});*/
 
 //
 

@@ -7,6 +7,27 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 
 > **special mix**
 
+## 4.30.16
+
+- TREGS - Berry
+- Ramzoid - Nature Nature
+- Solstis - Explorers
+- Flux Pavilion - I Can't Stop (Ekali Tribute)
+- TREGS - thrill of it
+- Next To Blue - Digital Slave
+- Awoltalk & Lewru - Limits
+- Galantis - In My Head (Audiobot Remix)
+- Cameron Alan - Missed Calls
+- gylzey - vigorous
+- Flying Lotus - Voyagerrrrrs
+- Poldoore - Ain't No Sunshine
+- Diamond Eyes - Reboot
+- Blackbear - Girls Like U (Tarro Remix)
+- a - Ijgh
+- Audiobot - Im Here
+- PRXZM - Haze (Gill Chang Remix)
+- Enschway - Black Room [eat this.]
+
 ## 4.23.16
 
 Featuring a selection from Ta-ku's tribute album, [50 Days for Dilla](https://soundcloud.com/takugotbeats/sets/50-days-for-dilla-1).

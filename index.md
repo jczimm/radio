@@ -7,6 +7,26 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 
 > **special mix**
 
+## 5.7.16
+
+- kuiters - loophole
+- goldwater 2 - i made this song wearing jorts
+- Rhianna - Work (Laxcity Remix)
+- Awoltalk & Jupe - Young Blood
+- St&eacute;Louse & Sober Rob - Science
+- Disclosure - You & Me (Flume Remix)
+- Zara Larsson & MNEK - Never Forget You (Shoolz Remix)
+- Porter Robinson - Say My Name (Mielo Redux)
+- whereisalex - Death
+- Ta-ku - Higher (Flume Remix)
+- Solstis - Forever In Silence
+- Alina Baraz & Galimatias - Fantasy (Audiobot Remix)
+- maxd - temporary
+- Tarro - Solus
+- Audiobot - Mars 2040
+- Kid - P A P E R P L A N E
+- C Y G N - The Ocean
+
 ## 4.30.16
 
 - TREGS - Berry
@@ -26,7 +46,7 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 - a - Ijgh
 - Audiobot - Im Here
 - PRXZM - Haze (Gill Chang Remix)
-- Enschway - Black Room [eat this.]
+- Enschway - Black Room
 
 ## 4.23.16
 

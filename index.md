@@ -237,4 +237,3 @@ Featuring a special mix by [Ramzoid](https://soundcloud.com/ramzoid).
 - Madeon - Innocence ft. Aquilo (Daydreamer Remix)
 
 <script src="script.js"></script>
-<script src="https://jsconsole.com/js/remote.js?345234523"></script>

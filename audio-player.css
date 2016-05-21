@@ -1,18 +1,14 @@
-.audio-player {
-  font-size: 1.4em;
-  min-height: 1.5em;
-  position: relative;
-  display: inline-flex;
-  background-color: #333;
-  overflow-y: visible;
-  padding-right: .5em;
-}
 .audio-player > span {
   font-family: "Fira Mono", monospace;
   color: #eee;
   display: none;
-  justify-content: center;
-  transform: translateY(25%);
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-transform: translateY(25%);
+      -ms-transform: translateY(25%);
+          transform: translateY(25%);
   width: 1.5em;
 }
 .audio-player > span > img {
@@ -23,9 +19,13 @@
   cursor: pointer;
 }
 .audio-player > span.loading {
-  animation: opacity-pulse 0.3s alternate infinite;
+  -webkit-animation: opacity-pulse 0.3s alternate infinite;
+          animation: opacity-pulse 0.3s alternate infinite;
 }
 .audio-player.playing > .pause, .audio-player.paused > .play, .audio-player.loading > .loading {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
 }
 
@@ -34,6 +34,15 @@
   font-size: 1rem;
   padding-top: .2em;
   color: #eee;
+}
+
+@-webkit-keyframes opacity-pulse {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @keyframes opacity-pulse {

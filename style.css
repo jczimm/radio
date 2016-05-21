@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Fira+Mono);
+@import url(./audio-player.css);
 
 * {
   box-sizing: border-box;

@@ -1,34 +1,25 @@
 var profileimage = document.querySelector('#profileimage'),
-    body = document.querySelector('body');/*,
-    audioEl = document.querySelector('audio');*/
+    body = document.querySelector('body');
 
 //
 
-/*audiojs.events.ready(function() {
-    var audio = audiojs.create(audioEl, {
-        createPlayer: {
-            markup: '\
-	          <div class="play-pause"> \
-	            <p class="play"></p> \
-	            <p class="pause"></p> \
-	            <p class="loading"></p> \
-	            <p class="error"></p> \
-	          </div> \
-	          <div class="error-message"></div>',
-            playPauseClass: 'play-pause',
-            scrubberClass: 'scrubber',
-            progressClass: 'progress',
-            loaderClass: 'loaded',
-            timeClass: 'time',
-            durationClass: 'duration',
-            playedClass: 'played',
-            errorMessageClass: 'error-message',
-            playingClass: 'playing',
-            loadingClass: 'loading',
-            errorClass: 'error',
-        }
-    });
-});*/
+const audioPlayer = document.querySelector('#audio-player');
+const audio = audioPlayer.querySelector('audio');
+const src = audio.getAttribute('data-src');
+
+audioPlayer.querySelector('.play').onclick = function onPlayClick(e) {
+    audio.setAttribute('src', src);
+    audio.play();
+    audioPlayer.classList = 'audio-player loading';
+};
+audio.oncanplay = function onCanPlay(e) {
+    audioPlayer.classList = 'audio-player playing';
+};
+    
+audioPlayer.querySelector('.pause').onclick = function onPauseClick(e) {
+    audio.pause();
+    audioPlayer.classList = 'audio-player paused';
+};
 
 //
 

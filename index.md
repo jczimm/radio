@@ -1,7 +1,16 @@
 # Quiesci
-<!-- <audio src="http://142.4.217.133:8222/stream" preload="auto"> -->
 
 Passage into a realm of phat beats and bright synths; a taste of the future of music.
+
+<div id="audio-player" class="audio-player paused">
+    <audio preload="auto" data-src="http://142.4.217.133:8222/stream"></audio>
+    <span class="play"><img src="./img/play.svg"></span>
+    <span class="pause"><img src="./img/pause.svg"></span>
+    <span class="loading"><img src="./img/dots.svg"></span>
+    <p class="label">Listen to WPEA Rampant Radio now!</p>
+</div>
+
+--
 
 > *spotlight mix*
 
@@ -227,5 +236,4 @@ Featuring a special mix by [Ramzoid](https://soundcloud.com/ramzoid).
 - graves & Jupe - VHS
 - Madeon - Innocence ft. Aquilo (Daydreamer Remix)
 
-<script src="lib/audiojs/audio.min.js"></script>
 <script src="script.js"></script>

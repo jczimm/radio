@@ -3,12 +3,12 @@
 Passage into a realm of phat beats and bright synths; a taste of the future of music.
 
 <div id="audio-player" class="audio-player paused">
-    <audio preload="auto" data-src="http://142.4.217.133:8222/stream"></audio>
+    <audio preload="auto" data-src="http://192.99.8.170:7386/stream"></audio>
     <span class="play"><img src="./img/play.svg"></span>
     <span class="pause"><img src="./img/pause.svg"></span>
     <span class="loading"><img src="./img/dots.svg"></span>
     <p class="label">Listen to WPEA Rampant Radio now!</p>
-    <!--<iframe data-src="http://jczimm.com/quiesci-vis" seamless="seamless" border="0"></iframe>-->
+    <iframe data-src="http://jczimm.com/quiesci-vis" seamless="seamless" border="0"></iframe>
 </div>
 
 --

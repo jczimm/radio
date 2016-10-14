@@ -17,6 +17,27 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 
 > **special mix**
 
+## 10.8.16
+
+- Ryan Hemsworth - Burying The Sun
+- Nömak & Araatan - Дүүжин Даажин (Teeter-Totter)
+- AbJo - Relatividad
+- FIRE SPELLS - Heal
+- uth fruit - reality
+- west1ne - clinch
+- GEOTHEORY - Leanin'
+- DIVERSA - bantering sprites
+- graves & Maazel - Lost Boys
+- Point Point - A Piece of Sun
+- Jordan Rakei - Talk To Me
+- Vance Joy - Riptide (Kasbo Remix)
+- Arrient - don't worry
+- alecirace - keep movin'
+- TRAILS - Crying In The Shadows
+- Big Wild - Aftergold
+
+-- 2015-16
+
 ## 5.21.16
 
 - Holder - Pingu Theme Trap Remix

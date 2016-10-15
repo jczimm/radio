@@ -20,7 +20,7 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 ## 10.8.16
 
 - Ryan Hemsworth - Burying The Sun
-- N&oumlmak & Araatan - &Dcy;&#x4AF;&#x4AF;&zhcy;&icy;&ncy; &Dcy;&acy;&acy;&zhcy;&icy;&ncy; (Teeter-Totter)
+- N&ouml;mak & Araatan - &Dcy;&#x4AF;&#x4AF;&zhcy;&icy;&ncy; &Dcy;&acy;&acy;&zhcy;&icy;&ncy; (Teeter-Totter)
 - AbJo - Relatividad
 - FIRE SPELLS - Heal
 - uth fruit - reality

@@ -33,7 +33,7 @@ body > #container.frosted {
 }
 
 #audio-player {
-  width: 100%;
+  width: calc(100% - 1em);
 }
 
 #profileimage {
@@ -302,8 +302,8 @@ footer > span a:hover {
   }
   
   body > #container {
-    max-width: 88%;
-    padding-left: 12%;
+    max-width: 100%;
+    padding-left: 1em;
   }
 
   body > #container.frosted {

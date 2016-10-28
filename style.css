@@ -19,13 +19,16 @@ body {
   background: #F6F6F6;
   font-family: "Fira Mono", monospace;
   font-size: 1.5rem;
+}
+
+body > #container {
   padding-left: 20%;
   max-width: 85%;
   opacity: 1;
   transition: opacity 0.3s;
 }
 
-body.frosted {
+body > #container.frosted {
   opacity: 0;
 }
 
@@ -298,12 +301,12 @@ footer > span a:hover {
     display: none;
   }
   
-  body {
+  body > #container {
     max-width: 88%;
     padding-left: 12%;
   }
 
-  body.frosted {
+  body > #container.frosted {
     opacity: 1;
   }
 

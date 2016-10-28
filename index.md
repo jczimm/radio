@@ -17,10 +17,29 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 
 > **special mix**
 
+## 10.15.16
+
+- ARVFZ - Hypervibes
+- oshi - call me
+- Cabu & Akacia - Gold (Jupe Remix)
+- Aosmos - Distant (Remix)
+- Cavalier - Too Late
+- kwesi - The Sound Of Letting Go
+- Chet Porter - Stay (feat. Chelsea Cutler)
+- Porter Robinson X Madeon - Shelter (inverness Remix)
+- CMRN - Hands To Myself
+- Andrew Luce & MYRNE - Rebound
+- k?d - Discover ft. RKCB
+- Zedd - Beautiful Now (feat. Jon Bellion) [Scout Remix]
+- Odesza - Without You
+- chrome sparks - Mannus & Venus
+- Avionics - Shores
+- コンシャスTHOUGHTS - Autumn
+
 ## 10.8.16
 
 - Ryan Hemsworth - Burying The Sun
-- N&ouml;mak & Araatan - &Dcy;&#x4AF;&#x4AF;&zhcy;&icy;&ncy; &Dcy;&acy;&acy;&zhcy;&icy;&ncy; (Teeter-Totter)
+- Nömak & Araatan - Дүүжин Даажин (Teeter-Totter)
 - AbJo - Relatividad
 - FIRE SPELLS - Heal
 - uth fruit - reality
@@ -82,7 +101,7 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 - goldwater 2 - i made this song wearing jorts
 - Rhianna - Work (Laxcity Remix)
 - Awoltalk & Jupe - Young Blood
-- St&eacute;Louse & Sober Rob - Science
+- StéLouse & Sober Rob - Science
 - Disclosure - You & Me (Flume Remix)
 - Zara Larsson & MNEK - Never Forget You (Shoolz Remix)
 - Porter Robinson - Say My Name (Mielo Redux)
@@ -150,11 +169,11 @@ Featuring a selection from Ta-ku's tribute album, [50 Days for Dilla](https://so
 - *Dirty South & Alesso - City of Dreams (feat. Ruben Haze)*
 - *Dirty South - Find A Way (Anevo remix)*
 - *Zedd - Beautiful Now (feat. Jon Bellion) [Dirty South Remix]*
-- Smallpools - Dreaming (Zook&euml;per Remix)
+- Smallpools - Dreaming (Zookëper Remix)
 - Ryzu & Unison - Azure
 - Morgan Page ft. Angelika Vee - Safe Till Tomorrow (Pegboard Nerds Remix)
 - Kaskade ft. Ilsey - Disarm You (Project 46 Mix)
-- Axwell/\Ingrosso - Sun Is Shining (M-22 Remix)
+- Axwell Λ Ingrosso - Sun Is Shining (M-22 Remix)
 - Daddys Groove - Pulse (Color Source Remix)
 
 ## 2.20.16
@@ -177,7 +196,7 @@ Featuring a special mix by [Ramzoid](https://soundcloud.com/ramzoid).
 - **Kendrick Lamar - Wesley's Theory (DrewsThatDude x GRAVEZ x oriJanus x TEK.LUN x Zikomo Remix)**
 - **Ramzoid - ID**
 - **Ramzoid - Turtle Theme**
-- **Kaaris - Charg&eacute; (Ramzoid Edit)**
+- **Kaaris - Chargé (Ramzoid Edit)**
 - **SINIQ - Silicon Valley**
 - **Ramzoid - ID**
 - **Tsuruda - Zac's Demise**

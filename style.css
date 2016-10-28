@@ -29,6 +29,10 @@ body.frosted {
   opacity: 0;
 }
 
+#audio-player {
+  width: 100%;
+}
+
 #profileimage {
   position: absolute;
   top: 0;

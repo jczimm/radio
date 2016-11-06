@@ -11,8 +11,10 @@
 }
 .audio-player > iframe {
   border: 0;
-  margin: 0.5em 0 0.5em 1em;
-  max-height: 1.4em;
+  /*margin: 0.5em 0 0.5em 1em;*/
+  max-height: 1.4em !important;
+  position: absolute;
+  right: 0;
 }
 .audio-player > span {
   font-family: "Fira Mono", monospace;
@@ -50,6 +52,9 @@
   font-size: 1rem;
   padding-top: .5em;
   color: #eee;
+  margin-left: 1em;
+  min-width: calc(100% - 2em);
+  z-index: 4;
 }
 
 @-webkit-keyframes opacity-pulse {

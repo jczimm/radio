@@ -2,3 +2,6 @@ node_modules
 
 # generated from index.md
 partials/body.html
+
+*.sublime-workspace
+*.sublime-project

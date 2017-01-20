@@ -17,6 +17,45 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 
 > **special mix**
 
+## 1.15.17
+
+- Mr. Carmack - otis otis
+- DROELOE - In Time (ft. Belle Doron)
+- grey - I Miss You
+- oshi - fly
+- Mr. Carmack - Hello1
+- Ta-ku & Wafia - Meet In The Middle (Ekali Remix)
+- SoySauce - Broken Record (ft. Joni Fatora) (Louis The Child Remix)
+- Gallant - Weight In Gold (Electric Mantis Remix)
+- Août - Gold Dust
+- Traxell - Voices
+- Lapsung - 'DRAGGED' (Apriskah Remix)
+- The Neighbourhood - Sweater Weather (Little Daylight Remix)
+- shannon - She Can Get It
+- verzache - Blueberry
+- medasin - Daydream (ft. JOBA)
+- ANH & quickly, quickly - Preach
+
+## 1.8.17
+
+- DROELOE - Bon Voyage
+- Coubo - Travel Nights
+- Darklit - Guarana Trade
+- The Highrollers - Creep (ft. Ember Island)
+- Golden Features - Wolfie (feat. Julia Stone)
+- Melvv - Not Me (feat. Two Feet)
+- KRANE x SAINTS - Numb
+- octn - switch (w/ james gent, akamu & shisto)
+- m-cubed - wednesday
+- Mazde - Wicked Winds
+- Khwezi - Like an Animal
+- sage nebulous - Harambe's Night Out
+- Mura Masa - Lovesick Fuck (CLQQNG Remix)
+- Big Gigantic - The Little Things (Kasbo remix)
+- The Chainsmokers - Closer (Justin Caruso Remix)
+- k?d - Birth of The Universe
+
+
 ## 11.5.16
 
 - James Mercy - In The Sky

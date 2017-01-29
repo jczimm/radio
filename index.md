@@ -17,6 +17,25 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 
 > **special mix**
 
+## 1.22.17
+
+- Kyolo & Krakn - Pagoda
+- Everydayz & Phazz - Almeria
+- TEK.LUN - Aburoy
+- verzache - dunes and the search
+- Autograf - Episode
+- Blackbear - Weak When Ur Around (p buddy Remix)
+- p buddy - Send It
+- Kygo & Dillion Francis - Coming Over Ft James Harley
+- Autograf - Changes (Tribute)
+- The Chainsmokers - Roses (William James x Blind Prism Remix)
+- San Holo - Light (Taska Black Remix)
+- ukko - perfume
+- Xander - whereareunow (remix)
+- swell - you & i
+- Ellzo - Gleam
+- mura masa - are u there (uth fruit remix)
+
 ## 1.15.17
 
 - Mr. Carmack - otis otis

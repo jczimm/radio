@@ -153,7 +153,7 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 - Citylights - Feather
 - Jovani Occomy - Elevated (metsä remix)
 - Ellie Goulding - Something In The Way You Move (SMLE Remix)
-- Opia - Falling (Wheathin Redo)
+- Opia - Falling (Wheathan Redo)
 
 ## 5.14.16
 

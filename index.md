@@ -17,6 +17,34 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 
 > **special mix**
 
+## 1.29.17
+
+Featuring a special mix by [BLU J](https://soundcloud.com/blujmusic).
+
+- Telescope Thieves - Gospel
+- STUPEAD - ALRIGHT
+- Venice - The Lighthouse & The Whaler (Louis The Child Remix)
+- **Point Point – A Piece of Sun**
+- **KRANE x SAINTS – Numb**
+- **Ta-ku & Wafia – Love Somebody (Mr. Carmack remix)**
+- **Hazey Eyes – Goodbye**
+- **Vaults – Midnight River (Pomo remix)**
+- **BLU J – UMBRLA**
+- **Speaker of the House & Remmi – Awake, Asleep**
+- **Oliver – Electrify (Billboard remix)**
+- **BLU J – GDBYE**
+- **Survive – Stranger Things (Machete Cut)**
+- **Louis the Child & Icona Pop – Weekend (SNBRN remix)**
+- **GTA & What So Not – Feel it (ft. Tunji Ige)**
+- **BLU J – ID**
+- Palette - Reactions
+- Diatone & Jaydon Lewis - Strangers Again
+- TEK.LUN - YouNivErsIty
+- Mo Vibez - Faded
+- Baribal - Cobalt Cave
+- Rick Dei - Lost and Found
+- Myles Jaeger - Forward
+
 ## 1.22.17
 
 - Kyolo & Krakn - Pagoda

@@ -17,6 +17,26 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 
 > **special mix**
 
+## 2.5.17
+
+- AbJo - All Is Not Lost
+- Dayfade x JR Jarris - dream
+- whereisalex - change hair.
+- daniel ness - Somethin' (feat. Issi Laïki)
+- Matt Lund - PalmTreesInTheSuburbs
+- Go yama - Sequences
+- Childish Gambino - Terrified (Zikomo Remix)
+- not - Kali
+- Harbor - Separate
+- Leat'eq - You’re Not Alone
+- mydigo - 23:99
+- strngr. - in time
+- Madeon - You're On (Louis The Child Remix)
+- catching flies - mama's wisdom (calfana dreams flip)
+- Myles Jaeger - Saudade
+- Jack Davis - Fix Your Sad Machine
+- Khamsin & LeMarquis - Leaving (feat. Saavan)
+
 ## 1.29.17
 
 Featuring a special mix by [BLU J](https://soundcloud.com/blujmusic).

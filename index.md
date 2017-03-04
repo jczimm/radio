@@ -17,6 +17,27 @@ Passage into a realm of phat beats and bright synths; a taste of the future of m
 
 > **special mix**
 
+## 2.19.17
+
+Featuring [internet theory, part one by whereisalex](https://soundcloud.com/whereisalex/internet-theory-part-one).
+
+- Kartell - 5 A.M
+- Bag Raiders - Friend Inside
+- LEO ISLO - Oh Dystopia (Mattanoll Remix)
+- Hermitude - Ukiyo (Arona Mane Rendition)
+- SG Lewis - Holding Back
+- Gallant - Open Up (Zephure Remix)
+- SWTRWTR - AY
+- **whereisalex - A DIGITAL LOVE**
+- **whereisalex - ROYALTIES**
+- **whereisalex - MY NAME IS ALEX**
+- **whereisalex - TURQUOISE**
+- **whereisalex - EIGHT**
+- CRNKN - The Grip feat. Sara Kendall (Ramzoid Remix)
+- Lookas - Can't Get Enough (Jupe Remix)
+- falcxne - Reminisce
+- verzache - winter rush
+
 ## 2.5.17
 
 - AbJo - All Is Not Lost

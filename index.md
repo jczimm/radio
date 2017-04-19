@@ -1,15 +1,19 @@
 # Quiesci
 
-Passage into a realm of phat beats and bright synths; a taste of the future of music.
-
-<div id="audio-player" class="audio-player paused">
+<!--<div id="audio-player" class="audio-player paused">
     <audio preload="auto" data-src="http://192.99.8.170:7386/stream"></audio>
     <span class="play"><img src="./img/play.svg"></span>
     <span class="pause"><img src="./img/pause.svg"></span>
     <span class="loading"><img src="./img/dots.svg"></span>
     <p class="label">Listen to WPEA Rampant Radio now!</p>
     <iframe data-src="http://jczimm.com/quiesci-vis" seamless="seamless" border="0"></iframe>
-</div>
+</div>-->
+
+Quiesci was a weekly radio show hosted and curated by <a href="http://x.jczimm.com/ws2sc">jczimm</a> that broadcasted on WPEA Rampant Radio from January 2016 to February 2017.
+
+> Passage into a realm of phat beats and bright synths; a taste of the future of music.
+
+<!--Below is a track list for every show.-->
 
 --
 

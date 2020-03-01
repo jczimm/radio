@@ -9,7 +9,7 @@
     <iframe data-src="http://jczimm.com/quiesci-vis" seamless="seamless" border="0"></iframe>
 </div>-->
 
-Quiesci was a weekly radio show hosted and curated by <a href="https://soundcloud.com/jczimm">jczimm</a> that broadcast on WPEA Rampant Radio from January 2016 to February 2017.
+Quiesci was a weekly radio show hosted and curated by <a href="https://soundcloud.com/jczimm">jczimm</a> from January 2016 to February 2017, bringing electronic music from the corners of the internet to broadcast on WPEA Rampant Radio.
 
 > Passage into a realm of phat beats and bright synths; a taste of the future of music.
 
